@@ -1,0 +1,13 @@
+git init
+git add .   -> adding to tracking   (staged)
+git statua   -> seeing status
+git commit  -am "commit message" --> committed on branch master
+
+git remote add origin <URL generated>
+git push --set-upstrem origin master   --> from next time on wards we no need to provide user name and password every time
+
+
+git checkout -b <branch name>  --> created new branch
+
+git push --set-upstream origin 01-ground-zero-base    --> set new branch on remote repository
+
